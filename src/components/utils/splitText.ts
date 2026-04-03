@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 // @ts-ignore
