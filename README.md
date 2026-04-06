@@ -54,7 +54,7 @@ Any usage, extraction, or redistribution of that avatar from my live website is 
 
 ---
 
-![Protfolio-Preview](https://github.com/harisabdulbari/Portfolio-Website/assets/102331121/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+![Protfolio-Preview](https://github.com/Muhammad-Haris-Abdull-Bari/Portfolio-Website/assets/102331121/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
 
 ---
 

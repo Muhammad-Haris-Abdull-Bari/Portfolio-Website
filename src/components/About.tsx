@@ -6,10 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          To leverage my expertise in HTML/CSS, JavaScript, WordPress, and Shopify
-          development, combined with a strategic and creative mindset, to deliver
-          innovative front-end solutions. Seeking a dynamic environment to further
-          enhance skills and contribute positively to organizational growth.
+          I'm a front-end developer with hands-on expertise in HTML, CSS, JavaScript, WordPress, and Shopify. I don't just build websites — I craft experiences that are fast, clean, and built to convert. Combining technical precision with a strategic and creative mindset, I deliver innovative <span style={{ whiteSpace: "nowrap" }}>front-end solutions</span> that drive real results. Every project I take on is built where great design and clean code come together — because work that looks great should perform even better.
         </p>
       </div>
     </div>
